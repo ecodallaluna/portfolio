@@ -1,4 +1,4 @@
-# Personal UX researcher Portfolio
+# Personal Portfolio
 *based on Portfolio Jekyll Theme by LeNPaul*
 
 This portfolio is based on [LeNPaul](https://github.com/LeNPaul) [Portfolio Jekyll Theme](https://github.com/LeNPaul/portfolio-jekyll-theme). I just have performed some little adjustment to adapt to my needs. For further information please read the documentation of the original repository.
