@@ -1,0 +1,19 @@
+# Build settings
+
+markdown: kramdown
+permalink: none
+plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+port: 4000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		           "Ilario Jeff Toniello"
+description:	       "Ilario Jeff Toniello - UX research & design"
+author:              "Ilario Jeff Toniello"
+
+# based on Paul Lee's Portfolio Jekyll Theme 

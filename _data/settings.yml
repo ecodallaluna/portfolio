@@ -1,0 +1,87 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+# - {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics-ua: 'UA-115039139-2'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+#-------------------------------
+# About Section
+
+about: >
+
+  ![About](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/about/about.jpg)
+  
+  #### Long story short
+  
+  My name is Ilario Jeff and I am an user experience designer with skills in product design, UI design, usability testing and affective interaction.
+  
+  
+   
+  I had a previous experience as graphic designer and I worked in the advertising and publishing industries for almost a decade. Few years ago I decided to challenge myself and start a new professional journey. I decided to expand my area of expertise in Cognitive Science, Psychology and Design. I completed my studies in Human Computer Interaction at Aalto University in Finland and at University College London in the United Kingdom.
+  
+   
+   
+  I am a baking enthusiast. I love to take care of gardens and pet fat cats.
+
+
+ 
+
+contact: >
+  #### Contact
+
+  You may contact me through [Linkedin](https://www.linkedin.com/in/ilariotoniello/) or [Twitter](https://twitter.com/intent/tweet?text=%40ecodallaluna).
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'CURIO', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Elekta', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Ach So!', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Second Nose', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Sleepyhead', folder: 'proj-5', file: 'projects/proj-5.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/ecodallaluna'}
+- {icon: 'instagram', link: 'https://www.instagram.com/ecodallaluna/'}
+- {icon: 'github', link: 'https://github.com/ecodallaluna/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/ilariotoniello/'}
+- {icon: 'behance', link: 'https://www.behance.net/ecodallaluna'}
+# - {icon: 'envelope', link: 'mailto:#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' /
+# / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
