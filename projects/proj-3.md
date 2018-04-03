@@ -4,7 +4,7 @@ title: 'Ach So!'
 ---
 *A mobile App to support nurse training*
 
-![Ach So!](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-3/achso-intro.jpg)
+![Ach So!](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-3/achso-intro.jpg)
 
 #### In a nutshell
 In a team of four I designed and performed an usability test of Ach So! by LeGroup. Ach So! is a mobile App for the creation of annotated video tutorials for training purposes.
@@ -13,7 +13,7 @@ The alpha version of Ach So! was created and tested with construction worker tea
 
 -----
 
-![Ach So! Initial UI](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-3/achso_tested_UI.jpg)
+![Ach So! Initial UI](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-3/achso_tested_UI.jpg)
 ###### Ach So! was originally developed for construction workers, but it was tested in beta release in a nurse training context
 
 -----
@@ -24,7 +24,7 @@ Based on this initial information, as a team we designed a test on specific task
 
 -----
 
-![Ach So! test setting](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-3/achso_user_test.jpg)
+![Ach So! test setting](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-3/achso_user_test.jpg)
 ###### The test was set in the same location of the nurses training to facilitate the task and make the participants feel relaxed in a familiar place
 
 -----
@@ -34,7 +34,7 @@ The usability test did not uncover big problems about the use of Ach So! This wa
 
 -----
 
-![Ach So! test setting](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-3/achso_prototype.jpg)
+![Ach So! test setting](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-3/achso_prototype.jpg)
 ###### Suggestions about how to improve the design of the App in further versions. Text and sketches were included in the final usability report presented to the company
 
 -----
