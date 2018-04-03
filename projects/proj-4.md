@@ -5,7 +5,7 @@ title: 'Second Nose'
 
 *A personal air monitor system on mobile*
 
-![Second Nose](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-4/thumb.jpg)
+![Second Nose](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/thumb.jpg)
 
 #### In a nutshell
 In a team of two I helped the [Semantics and Knowledge Innovation Lab (SKIL)](http://www.telecomitalia.com/tit/en/innovazione/archivio/jol-skil-trento.html) of [Telecom Italia](http://www.telecomitalia.com/) to understand better how users interact and utilise Second Nose, a mobile air sensor developed to create maps of the quality of air around the city.
@@ -14,7 +14,7 @@ Second Nose is a project developed by SKIL to monitor the quality of air via a s
 
 -----
 
-![Second Nose original UI](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-4/secondnose_original_UI.jpg)
+![Second Nose original UI](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_original_UI.jpg)
 ###### The Alpha Version of the App had a very rudimentary user interface. The Second Nose team needed a comprehensive user research before to move to the next developing step
 
 -----
@@ -26,7 +26,7 @@ The developing team asked for contrasted results. From one point of view it requ
 
 -----
 
-![Second Nose sensor analysis](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-4/secondnose_sensor.jpg)
+![Second Nose sensor analysis](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_sensor.jpg)
 ###### The research focused on the use of the App but some time was reserved to study the interaction with the device and the use strategies developed by the participants
 
 -----
@@ -36,7 +36,7 @@ We proceeded by collecting all the requests from the developing team, the projec
 
 -----
 
-![Second Nose test with Personas](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-4/secondnose_test_personas.jpg)
+![Second Nose test with Personas](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_test_personas.jpg)
 ###### Scenarios and personas were useful to help to explain the prospective functions in a narrative way and collect the opinion of the participants
 
 -----
@@ -50,7 +50,7 @@ The research had an international development with a further investigation on th
 
 -----
 
-![Second Nose International Questionnaire](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-4/secondnose_test_questionnaire.jpg)
+![Second Nose International Questionnaire](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_test_questionnaire.jpg)
 ###### The research had an international development with the collection of opinion about air pollution in several countries
 
 -----
