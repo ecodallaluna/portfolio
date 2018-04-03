@@ -5,7 +5,7 @@ title: 'Sleepyhead'
 
 *Improve babies’ most precious time*
 
-![Sleepyhead](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-5/sleepyhead_intro.jpg)
+![Sleepyhead](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-5/sleepyhead_intro.jpg)
 
 **Code and extended description can be found in the [GitHub repository](https://github.com/ecodallaluna/sleepyhead) of the project**
 
@@ -14,7 +14,7 @@ During the last years there has been a rising interest for smart systems that ar
 
 -----
 
-![Sleepyhead concept image](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-5/sleepyhead_concept.jpg)
+![Sleepyhead concept image](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-5/sleepyhead_concept.jpg)
 ###### Concept drawing of the initial stage of developing. With the collaboration of a couple of parents, we were able to analyse the problem and test a prototype directly with one newborn
 
 -----
@@ -30,7 +30,7 @@ After several tests, we set the design of the sensor-enchanted pillow and a firs
 
 -----
 
-![Sleepyhead concept image](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-5/sleepyhead_prototype_hardware.jpg)
+![Sleepyhead concept image](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-5/sleepyhead_prototype_hardware.jpg)
 ###### It was needed several iterative sprints to improve the design of the prototype and to adjust the sensor reading 
 
 -----
@@ -39,7 +39,7 @@ We tested the second prototype with the initial family and collected their opini
 
 -----
 
-![Sleepyhead final prototype](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-5/sleepyhead_prototype_action.jpg)
+![Sleepyhead final prototype](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-5/sleepyhead_prototype_action.jpg)
 ###### The second version of the prototype presented several improvements due the feedback from the users 
 
 -----
