@@ -5,7 +5,7 @@ title: 'CURIO'
 
 *Boost high schoolers critic learning*
 
-![CURIO](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/projects/proj-1/curio_logo.jpg)
+![CURIO](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1/curio_logo.jpg)
 
 #### In a nutshell
 
@@ -23,7 +23,7 @@ The following step was to generate several concept candidates. All the concepts 
 
 -----
 
-![CURIO Sketches](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/projects/proj-1/curio_idea_sketches.jpg)
+![CURIO Sketches](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1//curio_idea_sketches.jpg)
 ###### The use of fast sketching helped to develop a large number of ideas and fast testing them with users at an early stage of the process
 
 -----
@@ -34,8 +34,8 @@ After that, we focused more on the product design. We used the acquired data fro
 
 -----
 
-![CURIO Illustrator Prototype](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/projects/proj-1/curio_prototype_illustrator_1.jpg)
-![CURIO Illustrator Prototype](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/projects/proj-1/curio_prototype_illustrator_2.jpg)
+![CURIO Illustrator Prototype](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1/curio_prototype_illustrator_1.jpg)
+![CURIO Illustrator Prototype](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1/curio_prototype_illustrator_2.jpg)
 
 ###### A very simple static prototype made with Adobe Illustrator helped to validate the concept with the students. The advantage of a prototype based on vector images is that it can be easily modified and used as base in further steps with interactive prototypes
 
@@ -45,7 +45,7 @@ In a further iteration of the project, we developed a interactive prototype with
 
 -----
 
-![CURIO InVision interface](https://raw.githubusercontent.com/ecodallaluna/portfolio/gh-pages/assets/img/projects/proj-1/curio_interface.jpg)
+![CURIO InVision interface](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1/curio_interface.jpg)
 ###### An interactive prototype on mobile helped the team to understand the different approach to the service of students and teachers
 
 -----
