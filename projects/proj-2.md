@@ -4,7 +4,7 @@ title: 'Elekta'
 ---
 *Discover the role of Medical Imaging in Treatment Decision Making*
 
-![Elekta](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/thumb.jpg)
+![Elekta](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/thumb.jpg)
 
 #### In a nutshell
 Medical imaging are a wide class of visual documents, for example scans from magnetic resonance (MRI), x-rays, and ultrasounds. They are fundamental tools to diagnose diseases, communicate between medical experts and plan medical interventions. However, these kind of images can be difficult to read and their use is confined to experts.
@@ -18,7 +18,7 @@ The research focused on two sources; the opinions of the doctors and the opinion
 
 -----
 
-![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/elekta_grounded.jpg)
+![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta_grounded.jpg)
 ###### Transcript of interviews with doctors and diary entries from patients were analysed following a Grounding Theory approach
 
 -----
@@ -27,13 +27,13 @@ The main themes that emerged from the analysis were organised in an Affinity Dia
 
 -----
 
-![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/elekta-themes1.jpg)
-![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/elekta-themes2.jpg)
+![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta-themes1.jpg)
+![Elekta Grounded Theory Analysis](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta-themes2.jpg)
 ###### The final report presented the main themes emerged from the data analysis
 
 -----
 
-![Elekta Grounded Customer Segment](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/elekta-customer-segment.jpg)
+![Elekta Grounded Customer Segment](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta-customer-segment.jpg)
 ###### Techniques borrowed from marketing theories (Customer Segment from the [Value Proposition Canvas](https://strategyzer.com/canvas/value-proposition-canvas)) were used in order to have a comprehensive understanding of the user experience
 
 -----
@@ -42,7 +42,7 @@ The results showed that doctors prefer not to use images during the treatment de
 
 -----
 
-![Elekta Patient's journey](https://raw.githubusercontent.com/ecodallaluna/ecodallaluna-portfolio/gh-pages/assets/img/projects/proj-2/elekta-patients_journey.jpg)
+![Elekta Patient's journey](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta-patients_journey.jpg)
 ###### The customer’s journey was adapted in a “Patient’s Journey” approach to map the collected data in a narrative way and present the main findings of the research
 
 -----
