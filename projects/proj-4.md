@@ -7,6 +7,22 @@ title: 'Second Nose'
 
 ![Second Nose](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/thumb.jpg)
 
+-----
+
+#### Notes
+
+*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
+
+**Timeline:** *first phase:* 06.2015 ~ 08.2015; *second phase:* 12.2015
+
+**Location:**  *first phase:* Trento, Italy;  *second phase:* Mifune, Japan; Seoul, South Korea; Chonburi, Thailand;  *third phase:* Trento, Italy
+
+**My role:** Research design, Perform interviews, Design questionnaire, Lead Translation Teams, Data analysis, Sketching and UI design, Report and presentation
+
+**Delivered:** Interview plan, Questionnaires, Final report, Final presentation
+
+-----
+
 #### In a nutshell
 In a team of two I helped the [Semantics and Knowledge Innovation Lab (SKIL)](http://www.telecomitalia.com/tit/en/innovazione/archivio/jol-skil-trento.html) of [Telecom Italia](http://www.telecomitalia.com/) to understand better how users interact and utilise Second Nose, a mobile air sensor developed to create maps of the quality of air around the city.
 
@@ -43,7 +59,7 @@ We proceeded by collecting all the requests from the developing team, the projec
 
 After the analysis of this qualitative data, we delivered a report about the use of the App. We had a further meeting with the developing team and the product manager and discussed the insight collected with the research. The data was comparing that with the initial list of questions. This helped to create a list of accurate questions. We designed a questionnaire based on these questions and distributed it to the majority of the test user of Second Nose (120 people).
 
-The questionnaire was based on close-ended questions with few open-ended questions based on a summarised scenario that was shown to be useful during the first qualitative research. The result of the questionnaire confirmed some data from the qualitative report while some initial insight was contradicted. 
+The questionnaire was based on close-ended questions with few open-ended questions derived from a summarised scenario that was shown to be useful during the first qualitative research. The result of the questionnaire confirmed some data from the qualitative report while some initial insight was contradicted. 
 
 #### Further investigation in Asia 
 The research had an international development with a further investigation on the field that brought me to visit Thailand, South Korea and Japan. The research was promoted by the University of Trento as part of an international exchange programme.
@@ -56,17 +72,3 @@ The research had an international development with a further investigation on th
 -----
 
 The investigation was developed in order to analyse the perception and the awareness of air pollution, and to understand if a product like Second Nose would be attractive in different markets. It was a challenging experience that made me interact with local translation teams and deal with problems like validation and translation of standardised questionnaires in different languages and cultures. The collected information was analysed and compared with the real quality of the air from the World Health Organization (WHO) to have a comprehensive understanding of the phenomena.
-
------
-
-#### Notes
-
-*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
-
-**Timeline:** *first phase:* 06.2015 ~ 08.2015; *second phase:* 12.2015
-
-**Location:**  *first phase:* Trento, Italy;  *second phase:* Mifune, Japan; Seoul, South Korea; Chonburi, Thailand
-
-**My role:** Research design, Perform interviews, Design questionnaire, Lead Translation Teams, Data analysis, Sketching and UI design, Report and presentation
-
-**Delivered:** Interview plan, Questionnaires, Final report, Final presentation

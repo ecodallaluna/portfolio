@@ -2,9 +2,26 @@
 layout: post
 title: 'Elekta'
 ---
+
 *Discover the role of Medical Imaging in Treatment Decision Making*
 
 ![Elekta](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/thumb.jpg)
+
+-----
+
+#### Notes
+
+*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
+
+**Timeline:** 05.2017 ~ 08.2017
+
+**Location:**  London, UK
+
+**My role:** User research
+
+**Delivered:** Data analysis report, Final presentation, Final report
+
+-----
 
 #### In a nutshell
 Medical imaging are a wide class of visual documents, for example scans from magnetic resonance (MRI), x-rays, and ultrasounds. They are fundamental tools to diagnose diseases, communicate between medical experts and plan medical interventions. However, these kind of images can be difficult to read and their use is confined to experts.
@@ -44,17 +61,3 @@ The results showed that doctors prefer not to use images during the treatment de
 
 ![Elekta Patient's journey](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-2/elekta-patients_journey.jpg)
 ###### The customer’s journey was adapted in a “Patient’s Journey” approach to map the collected data in a narrative way and present the main findings of the research
-
------
-
-#### Notes
-
-*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
-
-**Timeline:** 05.2017 ~ 08.2017
-
-**Location:**  London, UK
-
-**My role:** User research
-
-**Delivered:** Data analysis report, Final presentation, Final report
