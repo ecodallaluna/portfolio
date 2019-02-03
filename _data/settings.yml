@@ -66,11 +66,11 @@ contact: >
 # Work Section
 
 projects:
+- {name: 'Second Nose', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'CURIO', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Elekta', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Ach So!', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Second Nose', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Sleepyhead', folder: 'proj-5', file: 'projects/proj-5.html'}
+# - {name: 'Ach So!', folder: 'proj-3', file: 'projects/proj-3.html'}
+# - {name: 'Sleepyhead', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section

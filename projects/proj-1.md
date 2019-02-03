@@ -7,6 +7,22 @@ title: 'CURIO'
 
 ![CURIO](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-1/curio_logo.jpg)
 
+-----
+
+#### Notes
+
+*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
+
+**Timeline:** 01.2016 ~ 05.2016
+
+**Location:**  Helsinki, Finland
+
+**My role:** Product design, Test design, Test with users, Data analysis, UI sketching and prototype making, Writing report, Presentation to stakeholder (design part of the project)
+
+**Delivered:** Presentations at the end of each sprint, Questionnaires, Data analysis report, Interactive prototypes on mobile, Final report
+
+-----
+
 #### In a nutshell
 
 [YLE](https://yle.fi/), Finland's national public-broadcasting company, released a new set of APIs created to let developers to have access to the huge historical database of Finnish public TV and radio broadcasts. I participated in a team of four to design a new service targeting young generations. My main support to the team was in the activities of initial research; prototype design; and user testing. After an intense research and design process the team presented Curio, a system to help teachers and students to support the learning process.
@@ -59,20 +75,3 @@ The team consisted of four people. One expert in business and marketing took car
 #### My contribution
 
 My main position was UX researcher. During the project, I designed in concert with the other members of the team. In particular, I reviewed the structure of the interviews; got the feedback from the users; analysed data; drew and sketched to help the definition of the concepts; coordinated the design of personas and scenarios; designed the prototypes with Adobe Illustrator and Invision.
-
------
-
-#### Notes
-
-*Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
-
-**Timeline:** 01.2016 ~ 05.2016
-
-**Location:**  Helsinki, Finland
-
-**My role:** Product design, Test design, Test with users, Data analysis, UI sketching and prototype making, Writing report, Presentation to stakeholder (design part of the project)
-
-**Delivered:** Presentations at the end of each sprint, Questionnaires, Data analysis report, Interactive prototypes on mobile, Final report
-
-
-
