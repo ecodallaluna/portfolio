@@ -72,3 +72,65 @@ The research had an international development with a further investigation on th
 -----
 
 The investigation was developed in order to analyse the perception and the awareness of air pollution, and to understand if a product like Second Nose would be attractive in different markets. It was a challenging experience that made me interact with local translation teams and deal with problems like validation and translation of standardised questionnaires in different languages and cultures. The collected information was analysed and compared with the real quality of the air from the World Health Organization (WHO) to have a comprehensive understanding of the phenomena.
+
+-----
+
+#### Second Nose Redesign
+After the deep investigation of users’ relationship with Second Nose, I used information from the previous qualitative research to design a new set of personas and scenarios that summarises the collected information about user’s needs.
+
+[image persona]: done   
+
+-----
+
+![Second Nose International Questionnaire](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_test_questionnaire.jpg)
+###### The research had an international development with the collection of opinion about air pollution in several countries
+
+-----
+
+To bring the design of Second Nose to the next level, I used personas to role playing the scenarios. Which are the users’ goals? How can the app helps to reach them? I wrote down step by step the actions performed in different scenarios and summarised them in several user flows.
+
+[image user flow]: to do
+
+Following that, I roughly sketched mock-ups of the product’s interface for each scenario and overlapped them. Little by little it appeared a structure of the desired function and a map of the different sections of the app. This was completed with suggestions from the developing team about required technical information (e.g., user identification and connection to network functions).
+
+[image draw of the app with post-it, red lines, etc] done
+
+This was a process with several iterative sessions. Each one led to a more detailed map of the app. The technique used to develop the map evolved as well, from cheap draws to more sophisticated interactive mock-ups. Yet, this was not a linear process. The procedure guided to several branches used to explore different ideas, and many of them did not lead to useful solutions. The maps were designed in strong connection with the project manager, the developing team, a selection of users, and other stakeholders. All these figures added useful suggestions and examined the proposed solutions. 
+
+[img flow app made with sketch] done 
+
+This approach is based on actual user activities, and it drives to a structure of the app that is user-centred. 
+
+[app map] done
+App map generated from user process flows
+
+As part of the design process, I completed several tasks that are not related directly to the UX design of the App. For example, I suggested to the developing team to create a Product Architecture Map. This helped to share a high level understanding of the technical functions of the service. Key figures like stakeholders and project manager were able to understand better how the App and other parts of the system communicate to each other and the users. I also helped the business and marketing team to develop Business Model Canvases and Value Proposition Canvases focusing on the UX prospective.
+
+[add map Product Architecture]  done
+
+
+A deeper investigation about the Air Quality Display
+Big concern was raised by the design team about how to display the level of pollution perceived by the Second Nose sensor. The original idea to use the EPA color standard is conceptual wrong, because the sensor cannot show accurate readings, and EPA schematic colours show a range of reading that is too wide for the typical experience of SecondNose’s users.
+
+[img sketch of interface] done
+One of the last mock-ups with the EPA-style display. This solution encountered many issues and it was abandoned during the design process
+
+After discussing about the problem with the design manager and the developing team, I split the problem in two different design researches: shape and colour.
+
+Firstly, I probed which kind of visual metaphor was optimal to show the air pollution information. This was done with an initial brainstorming with representatives of the developing team, other stakeholders and the project manager. The best solutions where tested with a samples of 40 users via a questionnaire designed by myself. The questionnaire uses pair of words based on Microsoft Desirability Toolkit to Test Visual Appeal (https://www.nngroup.com/articles/microsoft-desirability-toolkit/) to investigate the level of attraction to the different solutions. A draft of the questionnaire can be found at this link (https://goo.gl/forms/ptn810IItSYRMQ5S2)  The result did not show a clear preference from the users and a further investigation with few direct interviews showed that none of the visual metaphors were clearly understand by the users.
+
+[image of the test]
+
+It was decided to do not use a visual metaphor to represent the level of the pollution but to focus on a chromatic scheme. The developing team suggested to consider three level of discrimination of the quality of air (“Good”, “Acceptable”, “Bad/Dangerous”) based on the level of sensibility of the algorithms developed by the back end functions of the system. I designed different solution with interface mock-ups. The chromatic scales were designed based on different metaphors, eg, the color of the traffic light (green-yellow-red), the color of the sky that get polluted little by little (from azure to grey), and a combination of quiet/alarm based of correlation between colours and emotions (for example Ou et al., 2004, and Zentner, 2001) blue-purple-red. The different solution were tested with semi-structured interview with a small selection of users, developers and stakeholders. The latter solution receive a clear appreciation from the testers.
+
+Further grounded theory analysis of the qualitative data from the interview shows a pattern in the perception of the pollution from the interviewees. Pollution is associated with objectives as dark, dirty, dusty, spiky; while clean air is associate to light, pure, refreshing, round. This made me resonate with the maluma/takete effect (firstly introduced by Köhler in 1929, for a useful summary see Rogers & Ross, 1975). I used this concept to visualising the pollution effect with a round shape that becomes spiky when the level of pollution increases.
+
+[insert here image of final pollution display, animated]
+ 
+
+
+Ou, L. C., Luo, M. R., Woodcock, A., & Wright, A. (2004). A study of colour emotion and colour preference. Part I: Colour emotions for single colours. Color Research & Application, 29(3), 232-240.
+
+Rogers, S. K., & Ross, A. S. (1975). A cross-cultural test of the Maluma-Takete phenomenon. Perception.
+
+Zentner, M. R. (2001). Preferences for colours and colour‐‐emotion combinations in early childhood. Developmental Science, 4(4), 389-398.
