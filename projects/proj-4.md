@@ -9,7 +9,7 @@ title: 'Second Nose'
 
 -----
 
-#### Notes
+###### Notes
 
 *Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
 
@@ -72,7 +72,6 @@ The research had an international development with a further investigation on th
 -----
 
 The investigation was developed in order to analyse the perception and the awareness of air pollution, and to understand if a product like Second Nose would be attractive in different markets. It was a challenging experience that made me interact with local translation teams and deal with problems like validation and translation of standardised questionnaires in different languages and cultures. The collected information was analysed and compared with the real quality of the air from the World Health Organization (WHO) to have a comprehensive understanding of the phenomena.
-<<<<<<< HEAD
 
 -----
 
@@ -126,7 +125,7 @@ As part of the design process, I completed several tasks that are not related di
 
 -----  
 
-####A deeper investigation about the Air Quality Display
+#### A deeper investigation about the Air Quality Display
 Big concern was raised by the design team about how to display the level of pollution perceived by the Second Nose sensor. The original idea to use the EPA color standard is conceptual wrong, because the sensor cannot show accurate readings, and EPA schematic colours show a range of reading that is too wide for the typical experience of SecondNose’s users.
 
 -----
