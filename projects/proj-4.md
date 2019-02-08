@@ -154,7 +154,5 @@ Further grounded theory analysis of the qualitative data from the interview show
  
 
 ###### Ou, L. C., Luo, M. R., Woodcock, A., & Wright, A. (2004). A study of colour emotion and colour preference. Part I: Colour emotions for single colours. Color Research & Application, 29(3), 232-240.
-
 ###### Rogers, S. K., & Ross, A. S. (1975). A cross-cultural test of the Maluma-Takete phenomenon. Perception.
-
 ###### Zentner, M. R. (2001). Preferences for colours and colour‐‐emotion combinations in early childhood. Developmental Science, 4(4), 389-398.
