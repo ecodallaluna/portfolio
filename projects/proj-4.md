@@ -9,7 +9,7 @@ title: 'Second Nose'
 
 -----
 
-###### Notes
+##### Notes
 
 *Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
 
