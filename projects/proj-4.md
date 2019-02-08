@@ -159,5 +159,3 @@ Further grounded theory analysis of the qualitative data from the interview show
 ###### Rogers, S. K., & Ross, A. S. (1975). A cross-cultural test of the Maluma-Takete phenomenon. Perception.
 
 ###### Zentner, M. R. (2001). Preferences for colours and colour‐‐emotion combinations in early childhood. Developmental Science, 4(4), 389-398.
-=======
->>>>>>> 8b75f222081fa0329a600e8c7730b39fedf4ed70
