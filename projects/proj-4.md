@@ -126,7 +126,7 @@ As part of the design process, I completed several tasks that are not related di
 -----  
 
 #### A deeper investigation about the Air Quality Display
-Big concern was raised by the design team about how to display the level of pollution perceived by the Second Nose sensor. The original idea to use the EPA color standard is conceptual wrong, because the sensor cannot show accurate readings, and EPA schematic colours show a range of reading that is too wide for the typical experience of SecondNose’s users.
+Big concern was raised by the design team about how to display the level of pollution perceived by the Second Nose sensor. The original idea to use the EPA color standard is conceptual wrong, because the sensor cannot show accurate readings, and EPA schematic colours show a range of reading that is too wide for the typical experience of Second Nose’s users.
 
 -----
 
