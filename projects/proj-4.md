@@ -24,7 +24,7 @@ title: 'Second Nose'
 -----
 
 #### In a nutshell
-In a team of two I helped the [Semantics and Knowledge Innovation Lab (SKIL)](http://www.telecomitalia.com/tit/en/innovazione/archivio/jol-skil-trento.html) of [Telecom Italia](http://www.telecomitalia.com/) to understand better how users interact and utilise Second Nose, a mobile air sensor developed to create maps of the quality of air around the city.
+In a team of two I helped the [Semantics and Knowledge Innovation Lab (SKIL)](https://web.archive.org/web/20160530065254/http://jol.telecomitalia.com/jolskil/) of [Telecom Italia](http://www.telecomitalia.com/) to understand better how users interact and utilise Second Nose, a mobile air sensor developed to create maps of the quality of air around the city.
 
 Second Nose is a project developed by SKIL to monitor the quality of air via a small Bluetooth device connected to smartphones. Users can check the quality of the air around them and data from all the participants is collected in an anonymous way to create a map of the quality of the air around the city.
 
