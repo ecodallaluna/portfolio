@@ -131,7 +131,7 @@ Big concern was raised by the design team about how to display the level of poll
 -----
 
 ![Second Nose Personas](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_menu_navigation.jpg)
-###### One of the last mock-ups with the EPA-style display. This solution encountered many issues and it was abandoned during the design process ([here](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/ssecondnose_menu_navigation.png) a copy in higher resolution)
+###### One of the last mock-ups with the EPA-style display. This solution encountered many issues and it was abandoned during the design process ([here](https://raw.githubusercontent.com/ecodallaluna/portfolio/master/assets/img/projects/proj-4/secondnose_menu_navigation.png) a copy in higher resolution)
 
 -----  
 
