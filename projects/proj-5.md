@@ -56,7 +56,8 @@ As main expert in UX, I helped to design the initial research and test the proto
 
 *Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
 
-**Timeline:** 03.2016 ~ 05.2016
+<!--
+**Timeline:** 03.2016 ~ 05.2016 -->
 
 **Location:**  Helsinki, Finland
 
