@@ -12,8 +12,6 @@ title: 'Second Nose'
 **Notes**
 
 *Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
-<!--
-**Timeline:** *first phase:* 06.2015 ~ 08.2015; *second phase:* 12.2015; *third phase:* 03.2015 ~ 04.2015 -->
 
 **Location:**  *first phase:* Trento, Italy;  *second phase:* Mifune, Japan; Seoul, South Korea; Chonburi, Thailand;  *third phase:* Trento, Italy
 
