@@ -12,8 +12,10 @@ title: 'CURIO'
 **Notes**
 
 *Due non-disclosure agreement, confidential information are omitted. Information in the present case study is from my own research and do not necessarily reflect the view of the client company.*
+<!--
 
 **Timeline:** 01.2016 ~ 05.2016
+-->
 
 **Location:**  Helsinki, Finland
 
